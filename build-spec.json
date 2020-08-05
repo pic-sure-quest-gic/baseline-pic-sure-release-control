@@ -25,7 +25,7 @@
   "datafiles": [
     {
       "project_name": "phenotype data",    
-      "clinical_data_s3_location": "avillach-73-nhanes-etl/hpds/wrongfile.tar.gz"
+      "clinical_data_s3_location": "avillach-73-nhanes-etl/hpds/nhanes_javabins.tar.gz"
     }
   ]
 }
